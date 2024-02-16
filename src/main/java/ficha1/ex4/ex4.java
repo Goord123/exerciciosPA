@@ -2,7 +2,6 @@ package ficha1.ex4;
 
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.Scanner;
 
 public class ex4 {
     public static void main(String[] args) {
